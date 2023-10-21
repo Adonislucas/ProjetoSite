@@ -131,6 +131,7 @@ body {
   .cabecalho__menu {
     justify-content: center;
     gap: 40px;
+    
   }
   .apresentacao {
     flex-direction: column-reverse;
@@ -140,7 +141,9 @@ body {
     width: auto;
   }
   .apresentacao__imagem__dois {
-    width: 60%;
+    width: 70%;
+    
+    
   }
 
   .apresentacao__conteudo__texto{
